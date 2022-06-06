@@ -1,6 +1,6 @@
 # HISTORY OF COMMANDS
 
-This tests was made by Cod3r Cursos in (YT Channel)[https://www.youtube.com/watch?v=VmmA5SFN2WM].
+This tests was made by Cod3r Cursos in [YT Channel](https://www.youtube.com/watch?v=VmmA5SFN2WM).
 
 ```bash
 # Angular
