@@ -1,3 +1,8 @@
 <h1>{{ msg }}</h1>
 <h2>{{ legend }}</h2>
+
 <input type="text" [value]="legend">
+
+<button (click)="resetLegend()">Reset Legend</button><br><br>
+
+<input type="text" [(ngModel)]="legend">
